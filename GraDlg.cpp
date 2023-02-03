@@ -778,6 +778,8 @@ void CGraDlg::OnBnClickedBtnDppage24()
 	if (e) {
 		g_TrimReader.Parse();
 		DebugLog("trim loaded...");
+		g_TrimReader.WriteTrimData();
+		DebugLog(g_TrimReader.TrimDotData);
 		g_TrimReader.CloseFile();
 	}
 	else {

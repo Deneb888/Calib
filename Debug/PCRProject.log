@@ -1,9 +1,1 @@
-﻿  GraDlg.cpp
-c:\users\zding\documents\workarea\calib\pcrproject-calib18-try140\gradlg.cpp(366): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-c:\users\zding\documents\workarea\calib\pcrproject-calib18-try140\gradlg.cpp(369): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
-c:\users\zding\documents\workarea\calib\pcrproject-calib18-try140\gradlg.cpp(307): warning C4996: 'gcvt': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _gcvt. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1316): note: see declaration of 'gcvt'
-c:\users\zding\documents\workarea\calib\pcrproject-calib18-try140\gradlg.cpp(386): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _itoa. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdlib.h(1323): note: see declaration of 'itoa'
-c:\users\zding\documents\workarea\calib\pcrproject-calib18-try140\gradlg.cpp(2056): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-  PCRProject.vcxproj -> C:\Users\zding\Documents\WorkArea\Calib\PCRProject-Calib18-try140\Debug\PCRProject.exe
+﻿  PCRProject.vcxproj -> C:\Users\zding\Documents\WorkArea\Calib\PCRProject-Calib18-try140\Debug\PCRProject.exe
